@@ -1,0 +1,14 @@
+<div class="target d-flex align-center">
+            <div class="icon d-flex blue">
+              
+            </div>
+              <div class="details ml-10">
+                <span class="d-block c-gray mb-10">Mony</span>
+                <span class="d-block fw-bold ">$20.000</span>
+                <div class="progress">
+                  <span class="">
+                    <span></span>
+                  </span>
+                </div>
+              </div>
+          </div>
